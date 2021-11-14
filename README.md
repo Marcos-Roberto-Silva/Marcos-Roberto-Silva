@@ -1,5 +1,5 @@
 #### Hi there, welcome. 👋 😃 
-#### I'm Marcos, I am a Full Stack Node/React engineer looking for challenges in the development field. 
+#### I'm Marcos, I am a Full Stack Node|React|Angular engineer. 
 #### I'm constantly studying and learning new approaches to improve my coding skills to bring high quality on releases. 🛠️
 
 
